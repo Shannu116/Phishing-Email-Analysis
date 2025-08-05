@@ -13,7 +13,7 @@ A detailed inspection of the email header and body reveals multiple traits commo
 - ❌ **Missing SPF, DKIM, and DMARC** authentication headers.
 - ⚠️ **Suspicious Message-ID**: Possibly spoofed or malformed.
 - ⛔ **Blacklisted Domain**: Sender's domain found on multiple threat databases.
-- 🔗 **8 Phishing URLs** detected using [VirusTotal](https://www.virustotal.com).
+- 🔗 **Phishing URLs** detected using [VirusTotal](https://www.virustotal.com).
 
 ### 🎯 Social Engineering Clues:
 - 📩 Email content claims an **"unknown login from a foreign country"** to create urgency and fear.
